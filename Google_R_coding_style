@@ -1,6 +1,8 @@
-Google's R Style Guide
+<b>Google's R Style Guide</b>
 R is a high-level programming language used primarily for statistical computing and graphics. The goal of the R Programming Style Guide is to make our R code easier to read, share, and verify. The rules below were designed in collaboration with the entire R user community at Google.
 Summary: R Style Rules
+
+
 1.	File Names: end in .R
 2.	Identifiers: variable.name (or variableName), FunctionName, kConstantName
 3.	Line Length: maximum 80 characters
